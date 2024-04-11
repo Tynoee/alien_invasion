@@ -3,7 +3,7 @@ This repository contains the source code for a simple Alien Invasion game develo
 
 # Key Features:
 
-Player Controls: 
+1# Player Controls: 
 Use arrow keys to move the spaceship horizontally and vertically. Press the spacebar to shoot bullets at the aliens.
 
 Alien Waves: 
