@@ -6,7 +6,7 @@ This repository contains the source code for a simple Alien Invasion game develo
 Player Controls: 
 Use arrow keys to move the spaceship horizontally and vertically. Press the spacebar to shoot bullets at the aliens.
 
-Alien Waves: 
+Alien Waves : 
 Waves of aliens move across the screen, descending closer to the player's spaceship. Your goal is to eliminate as many aliens as you can before they reach the bottom of the screen.
 
 Score Tracking: 
