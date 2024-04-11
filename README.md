@@ -15,7 +15,7 @@ Keep track of your score as you shoot down aliens. Score points are awarded for 
 Game Over: 
 The game ends when the player's spaceship collides with an alien or when the aliens reach the bottom of the screen. Your highest score is recorded for future reference.
 
-#How to Play:
+# How to Play:
 
 1. Clone this repository to your local machine.
 2. Ensure you have Python and Pygame installed.
