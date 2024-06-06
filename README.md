@@ -3,8 +3,6 @@ Alien Invasion game developed using Python and the Pygame library. In this game,
 
 <img src="game.png" alt="Alt Text" width="700" height="700">
 
-![Alt Text](game.png)
-
 # Key Features:
 
 Player Controls: 
