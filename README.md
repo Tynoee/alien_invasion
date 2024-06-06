@@ -19,8 +19,8 @@ The game ends when the player's spaceship collides with an alien or when the ali
 
 # How to Play:
 
-1. Clone this repository to your local machine.
-2. Ensure you have Python and Pygame installed.
-3. Run the alien_invasion.py script to start the game.
-4. Use arrow keys to move the spaceship and the spacebar to shoot bullets.
-5. Aim to achieve the highest score by shooting down as many aliens as possible without getting hit.
+- Clone this repository to your local machine.
+- Ensure you have Python and Pygame installed.
+- Run the alien_invasion.py script to start the game.
+- Use arrow keys to move the spaceship and the spacebar to shoot bullets.
+- Aim to achieve the highest score by shooting down as many aliens as possible without getting hit.
